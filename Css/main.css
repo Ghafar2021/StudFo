@@ -1,0 +1,26 @@
+.icon{
+  color:black;
+  background-color: #f7dfdf;
+  display: inline-flex;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.card-danger {
+  background: #847a7a;
+  color: rgb(14, 12, 12)!important;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #000;
+}
+
+.footer-header{
+  border-bottom: 3px solid;
+  height: 35px;
+}
+
+.footer-link:hover{
+  color: #000;
+}
